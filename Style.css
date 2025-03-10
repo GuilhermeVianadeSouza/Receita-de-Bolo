@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    Margin: 0;
+   }
+   h1{
+    color: gold;
+    height: 40px;
+    background-color: brown;
+    text-align: center;
+    font-size: 36px;
+    padding: 16px;
+    margin: 16px;
+   }
+   img{
+    width:700px;
+    margin: auto;
+    display: block;
+   }
+   h2 {
+    Padding: 16px;
+    margin: 16px;
+    text-align: center;
+   }
+   ul {
+    color: black;
+    margin: 16px;
+    background-color: none;
+   }
+   ol {
+    color: Black;
+    Margin: 16px;
+    background-color: none;
+   }
+   li {
+    margin: 16px;
+    font-size: 22px;
+   }
+   li:hover{
+    background-color: gold;
+   }
+   h3 {
+    Margin: 16px;
+    text-align: center;
+    font-size: 36px;
+   }
+   Iframe {
+    width: 700px;
+    margin: auto;
+    display: block;
+    padding:16px;
+   }
