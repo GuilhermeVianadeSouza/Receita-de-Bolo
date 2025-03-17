@@ -7,7 +7,7 @@ Aula usando o codepen realizando o uso de HTML, CSS e realizando a atividade sob
 * Html
 * Css
 * Git
-* GitHub
+
 
 ## Autor
 [Guilherme Viana de Souza]()
